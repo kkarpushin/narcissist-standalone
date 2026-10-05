@@ -223,4 +223,4 @@ MIT License — используй свободно.
 ---
 
 **Автор:** Yakov Yasko
-**GitHub:** https://github.com/yasikvlad/narcissist-communication-skill
+**GitHub:** https://github.com/kkarpushin/narcissist-communication-skill
